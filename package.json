@@ -1,13 +1,13 @@
 {
-  "id": "bitbucket",
-  "name": "Bitbucket",
+  "id": "jira",
+  "name": "Jira",
   "version": "1.0.0",
-  "description": "Bitbucket",
+  "description": "Jira",
   "main": "index.js",
-  "author": "17number",
-  "license": "MIT",
+  "author": "galando",
+  "license": "apache",
   "config": {
-    "serviceURL": "https://papayaglobal.atlassian.net/",
+    "serviceURL": "https://{company-name}.atlassian.net/",
     "hasTeamID": false
   }
 }
