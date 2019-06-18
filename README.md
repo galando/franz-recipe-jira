@@ -17,6 +17,8 @@ This recipe only works for Franz 5.X, get it now at http://meetfranz.com
 
 3. Unzip and copy the `franz-recipe-jira` folder into the recipes dev directory
 
+4. Replace in `package.json` the `{company-name}` to your company jira domain. (For example - to https://mygreatecompany.atlassian.net/
+
 4. Restart or reload Franz
 
 ## How to create your own Franz recipes:
